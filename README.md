@@ -1,6 +1,6 @@
 # Exercício acerca de esquema mestre detalhe de dados
 
-Esse exercício deve considerar o clone do código público disponibilizado no repositório [alexpaulooliveira/reactjs_exerc__master_detail___start_point](https://github.com/alexpaulooliveira/reactjs_exerc__master_detail___start_point) como ponto de partida. 
+Esse exercício deve considerar o clone do código público disponibilizado no repositório [alexpaulooliveira/reactjs_exerc__master_detail__start_point](https://github.com/alexpaulooliveira/reactjs_exerc__master_detail__start_point) como ponto de partida. 
 
 ### Como baixar, configurar, e executar a aplicação:
 
